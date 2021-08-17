@@ -1,0 +1,7 @@
+include dash_pairwise/dash_pairwise.min.js
+include dash_pairwise/dash_pairwise.min.js.map
+include dash_pairwise/metadata.json
+include dash_pairwise/package-info.json
+include README.md
+include LICENSE
+include package.json
